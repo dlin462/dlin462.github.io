@@ -202,7 +202,6 @@ background-position: right center;
 }
 
 .html-desc.desc-active::after {
-background: url(https://i.imgur.com/0g3HZSF.jpg);
 background-repeat: no-repeat;
 background-size: contain;
 background-position: right center;
@@ -216,7 +215,6 @@ background-position: right center;
 }
 
 .javascript-desc.desc-active::after {
-background: url(https://i.imgur.com/QjrmHkb.jpg);
 background-repeat: no-repeat;
 background-size: contain;
 background-position: right center;
